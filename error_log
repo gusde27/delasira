@@ -1,0 +1,54 @@
+[28-Sep-2019 21:53:56 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/lamr8853/public_html/sirra/koneksi.php on line 2
+[28-Sep-2019 21:53:56 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lamr8853/public_html/sirra/index.php on line 132
+[28-Sep-2019 21:53:56 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/lamr8853/public_html/sirra/index.php on line 133
+[28-Sep-2019 21:53:56 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lamr8853/public_html/sirra/index.php on line 135
+[28-Sep-2019 21:53:56 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/lamr8853/public_html/sirra/index.php on line 144
+[28-Sep-2019 21:53:56 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lamr8853/public_html/sirra/index.php on line 203
+[28-Sep-2019 21:53:56 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/lamr8853/public_html/sirra/index.php on line 204
+[28-Sep-2019 21:53:56 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lamr8853/public_html/sirra/index.php on line 206
+[28-Sep-2019 21:53:56 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/lamr8853/public_html/sirra/index.php on line 214
+[28-Sep-2019 21:55:37 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/lamr8853/public_html/sirra/koneksi.php on line 2
+[28-Sep-2019 21:55:37 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lamr8853/public_html/sirra/produk.php on line 30
+[28-Sep-2019 21:55:37 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/lamr8853/public_html/sirra/produk.php on line 31
+[28-Sep-2019 21:55:37 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lamr8853/public_html/sirra/produk.php on line 33
+[28-Sep-2019 21:55:37 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/lamr8853/public_html/sirra/produk.php on line 42
+[28-Sep-2019 21:55:44 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/lamr8853/public_html/sirra/koneksi.php on line 2
+[28-Sep-2019 21:55:44 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lamr8853/public_html/sirra/event.php on line 30
+[28-Sep-2019 21:55:44 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/lamr8853/public_html/sirra/event.php on line 31
+[28-Sep-2019 21:55:44 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lamr8853/public_html/sirra/event.php on line 33
+[28-Sep-2019 21:55:44 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/lamr8853/public_html/sirra/event.php on line 42
+[28-Sep-2019 21:56:11 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/lamr8853/public_html/sirra/koneksi.php on line 2
+[29-Sep-2019 06:28:59 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/lamr8853/public_html/sirra/koneksi.php on line 2
+[29-Sep-2019 09:05:50 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'lamr8853_dela_sirra'@'localhost' (using password: YES) in /home/lamr8853/public_html/sirra/koneksi.php on line 2
+[29-Sep-2019 09:05:50 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lamr8853/public_html/sirra/index.php on line 132
+[29-Sep-2019 09:05:50 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/lamr8853/public_html/sirra/index.php on line 133
+[29-Sep-2019 09:05:50 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lamr8853/public_html/sirra/index.php on line 135
+[29-Sep-2019 09:05:50 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/lamr8853/public_html/sirra/index.php on line 144
+[29-Sep-2019 09:05:50 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lamr8853/public_html/sirra/index.php on line 203
+[29-Sep-2019 09:05:50 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/lamr8853/public_html/sirra/index.php on line 204
+[29-Sep-2019 09:05:50 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lamr8853/public_html/sirra/index.php on line 206
+[29-Sep-2019 09:05:50 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/lamr8853/public_html/sirra/index.php on line 214
+[29-Sep-2019 09:07:16 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'lamr8853_megibung'@'localhost' to database 'lamr8853_dela_sirra' in /home/lamr8853/public_html/sirra/koneksi.php on line 2
+[29-Sep-2019 09:07:16 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lamr8853/public_html/sirra/index.php on line 132
+[29-Sep-2019 09:07:16 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/lamr8853/public_html/sirra/index.php on line 133
+[29-Sep-2019 09:07:16 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lamr8853/public_html/sirra/index.php on line 135
+[29-Sep-2019 09:07:16 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/lamr8853/public_html/sirra/index.php on line 144
+[29-Sep-2019 09:07:16 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lamr8853/public_html/sirra/index.php on line 203
+[29-Sep-2019 09:07:16 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/lamr8853/public_html/sirra/index.php on line 204
+[29-Sep-2019 09:07:16 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lamr8853/public_html/sirra/index.php on line 206
+[29-Sep-2019 09:07:16 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/lamr8853/public_html/sirra/index.php on line 214
+[29-Sep-2019 09:08:28 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'lamr8853_dela_sirra'@'localhost' (using password: YES) in /home/lamr8853/public_html/sirra/koneksi.php on line 2
+[29-Sep-2019 09:08:28 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lamr8853/public_html/sirra/index.php on line 132
+[29-Sep-2019 09:08:28 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/lamr8853/public_html/sirra/index.php on line 133
+[29-Sep-2019 09:08:28 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lamr8853/public_html/sirra/index.php on line 135
+[29-Sep-2019 09:08:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/lamr8853/public_html/sirra/index.php on line 144
+[29-Sep-2019 09:08:28 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lamr8853/public_html/sirra/index.php on line 203
+[29-Sep-2019 09:08:28 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/lamr8853/public_html/sirra/index.php on line 204
+[29-Sep-2019 09:08:28 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/lamr8853/public_html/sirra/index.php on line 206
+[29-Sep-2019 09:08:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/lamr8853/public_html/sirra/index.php on line 214
+[29-Sep-2019 09:08:40 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'lamr8853_dela_sirra'@'localhost' (using password: YES) in /home/lamr8853/public_html/sirra/koneksi.php on line 2
+[29-Sep-2019 09:08:51 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'lamr8853_dela_sirra'@'localhost' (using password: YES) in /home/lamr8853/public_html/sirra/koneksi.php on line 2
+[29-Sep-2019 09:11:41 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/lamr8853/public_html/sirra/koneksi.php on line 2
+[29-Sep-2019 09:17:50 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/lamr8853/public_html/sirra/admin.php on line 5
+[29-Sep-2019 09:18:43 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/lamr8853/public_html/sirra/admin.php on line 5
+[29-Sep-2019 09:20:43 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/lamr8853/public_html/sirra/manager.php on line 9
